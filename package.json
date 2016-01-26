@@ -1,0 +1,21 @@
+{
+  "name": "fcc-be-timestamp",
+  "version": "0.0.1",
+  "description": "Free Code Camp API Basejump: Timestamp microservice",
+  "main": "timestamp.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbertone/fcc-be-timestamp.git"
+  },
+  "author": "Fabrizio Bertone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fbertone/fcc-be-timestamp/issues"
+  },
+  "homepage": "https://github.com/fbertone/fcc-be-timestamp#readme"
+}
