@@ -15,10 +15,11 @@
 ### Example output:
 > { "unix": 1450137600, "natural": "December 15, 2015" }
 
+## Live preview
+https://fbertone-fcc-tsms.herokuapp.com/
+
 ## TODO
 * Add tests
-* Insert current hostname in links inside the info page
-* Add live preview on [Heroku]
 
 ## Info
 Timestamp Microservice API project for [Free Code Camp] Back End Certification.
@@ -27,4 +28,3 @@ Timestamp Microservice API project for [Free Code Camp] Back End Certification.
 **MIT**
 
    [Free Code Camp]: <http://www.freecodecamp.com>
-   [Heroku]: <https://www.heroku.com>
